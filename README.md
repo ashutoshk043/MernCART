@@ -1,0 +1,3 @@
+# MernCART
+
+npm run dev
